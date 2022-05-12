@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yamadamuller
 - 👀 I’m interested in eletrical engineering
-- 🌱 I’m currently learning signal processing (Python) and modern control engineering (MATLAB)
+- 🌱 I’m currently learning signal processing (Python)
 - 📫 How to reach me mateusyamada@alunos.utfpr.edu.br or yamadamuller@gmail.com
 
 <!---
