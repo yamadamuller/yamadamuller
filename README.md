@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yamadamuller
-- 👀 I’m interested in eletrical engineering
-- 🌱 I’m currently learning signal processing (Python)
-- 📫 How to reach me mateusyamada@alunos.utfpr.edu.br or yamadamuller@gmail.com
+- 👀 I’m interested in signal processing and control systems
+- 🌱 I’m currently learning digital signal processing (MATLAB and Python)
+- 📫 How to reach me mateusyamada@alunos.utfpr.edu.br 
 
 <!---
 yamadamuller/yamadamuller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
