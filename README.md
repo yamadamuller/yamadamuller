@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @yamadamuller
-- 👀 I’m interested in signal processing and control systems
-- 🌱 I’m currently learning digital signal processing (MATLAB and Python)
+- 👀 I’m interested in signal processing (MATLAB and Python)
 - 📫 How to reach me mateusyamada@alunos.utfpr.edu.br 
 
 <!---
