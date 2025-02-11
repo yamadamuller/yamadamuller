@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yamadamuller
-- 👀 I’m interested in digital signal processing, digital image processing, machine learning and control systems (C++, MATLAB and Python)
+- 👀 I’m interested in digital signal processing, digital image processing, machine learning and numerical optimization (C++, MATLAB and Python)
 - 📫 How to reach me yamadamuller@gmail.com
 
 <!---
